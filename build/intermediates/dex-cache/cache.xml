@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/markfavis/Projects/SportSpotAndroid/app/libs/processing-core.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01b3b809db8f2b25d717c5c1b9d166547dea3fa9">
+        <dex dex="/Users/markfavis/Projects/SportSpotAndroid/app/build/intermediates/pre-dexed/release/processing-core-30a78d31099c16371208eb27262993390c6d48ba.jar" />
+    </item>
+    <item
+        jar="/Users/markfavis/Projects/SportSpotAndroid/app/libs/apwidgets.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fdde064258587e1e17cf2996ba064bdfbab709f0">
+        <dex dex="/Users/markfavis/Projects/SportSpotAndroid/app/build/intermediates/pre-dexed/release/apwidgets-a4b10eaf29356f212917410d3ccaae65a1299327.jar" />
+    </item>
+    <item
+        jar="/Users/markfavis/Projects/SportSpotAndroid/app/libs/Ketai.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81f4eb63c8e6fd7d5d310404ae368d8cf370c631">
+        <dex dex="/Users/markfavis/Projects/SportSpotAndroid/app/build/intermediates/pre-dexed/release/Ketai-ef05722c5852806531757206b62b6e3824b66c9e.jar" />
+    </item>
+
+</items>
